@@ -36,14 +36,14 @@
     float: left;
     width: 100%;
 }*/
-.col {
+/*.col {
     float: left;
     width: 33.33%;
     padding: 20px;
     text-align: center;
     border: 1px solid #333;
     box-sizing: border-box;
-}
+}*/
 .col img {
     width: 200px;
 }
