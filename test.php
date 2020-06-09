@@ -32,10 +32,10 @@
 </head>
 <style>
 
-.main-row {
+/*.main-row {
     float: left;
     width: 100%;
-}
+}*/
 .col {
     float: left;
     width: 33.33%;
