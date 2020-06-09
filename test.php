@@ -1,7 +1,4 @@
 <?php  
-
-
-
     require("OAuth.php");
      
     $cc_key  = "b4a6165824bb45fcb991483230f60af6";
